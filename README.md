@@ -1,6 +1,7 @@
 <img src="special.png" alt="GitHub Banner" width="100%" />
-<h1>👋 Hello! I'm shiva charan</h1> 
-<p>Full Stack Developer and also work with innovation-driven projects.I love turning creative ideas into real-world solutions through technology.</p>
+<h1>👋 Hello! I'm shiva charan </h1> 
+<p> Full Stack Developer and focus on innovation-driven projects.
+I specialize in transforming creative ideas into practical and efficient technological solutions</p>
 <h4>🚀 What I Do:</h4>
 - Build scalable full stack applications (MERN stack)
 Design and develop RESTful APIs and dynamic user interfaces
@@ -13,13 +14,7 @@ Automate workflows and develop smart systems (IoT, AI, ML)
 IoT and embedded systems integration<br>- AI-powered applications
 <br>-
 Open source contributions and learning new tech
-<h4>🛠️Tech Stack:</h4>
-- Frontend: HTML, CSS, JavaScript 
-<br>- 
-Backend: Node.js,PHP, Python, MySQL,
-<br>-
-Tools: Git, GitHub,VS Code, Linux
-<br>-
+
 Others: Arduino, APIs,
 <h4>🌱Currently Exploring:</h4>
 Machine Learning & AI<br>- System automation for smart devices
