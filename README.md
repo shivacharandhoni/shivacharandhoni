@@ -1,4 +1,5 @@
-<h1>👋 Hello! I'm shiva</h1> 
+<img src="special.png" alt="GitHub Banner" width="100%" />
+<h1>👋 Hello! I'm shiva charan</h1> 
 <p>Full Stack Developer and also work with innovation-driven projects.I love turning creative ideas into real-world solutions through technology.</p>
 <h4>🚀 What I Do:</h4>
 - Build scalable full stack applications (MERN stack)
