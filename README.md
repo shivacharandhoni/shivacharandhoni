@@ -44,4 +44,8 @@ Machine Learning & AI<br>- System automation for smart devices
 ---
 [![](https://visitcount.itsvg.in/api?id=shivacharandhoni&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shivacharandhoni/shivacharan/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shivacharandhoni/shivacharan/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/shivacharandhoni/shivacharan/blob/output/github-snake.svg" />
+</picture>
