@@ -94,5 +94,9 @@ Machine Learning & AI<br>- System automation for smart devices
 <img src="https://github-contributor-stats.vercel.app/api?username=shivacharandhoni&limit=5&theme=date_night&combine_all_yearly_contributions=true" width="700" alt="GitHub Contributor Stats"/>
 
 </div>
+<p align="center">
+    <img src=".github/git.svg">
+</p>
+
 
 ---
