@@ -23,23 +23,12 @@
 </div>
 <p> Full Stack Developer and focus on innovation-driven projects.
 I specialize in transforming creative ideas into practical and efficient technological solutions.</p>
-<h4>🚀 What I Do:</h4>
-- Build scalable full stack applications (MERN stack)
-Design and develop RESTful APIs and dynamic user interfaces
-<br>-
-Work on innovative projects that combine software, hardware, and emerging tech
-<br>- 
-Automate workflows and develop smart systems (IoT, AI, ML)
-<h4>💡Current Interests:</h4>
- - Innovative product development
-IoT and embedded systems integration<br>- AI-powered applications
-<br>-
-Open source contributions and learning new tech
+• 🚀 Build scalable full-stack apps using the MERN stack. <br>
+• 💡 Design dynamic APIs and automate smart workflows.<br>
+• 🔍 software, hardware, IoT, AI & ML for innovative projects.<br>
+• 🌱 Currently learning machine learning, smart device automation, and cloud DevOps.<br>
+• 🤝 Open to open-source contributions and exciting collaborations
 
-Others: Arduino, APIs,
-<h4>🌱Currently Exploring:</h4>
-Machine Learning & AI<br>- System automation for smart devices
-<br>- Cloud services and DevOps practices
 <h4>📫 Let's Connect!</h4>Feel free to check out my repositories, contribute, or reach out for collaborations and innovative ideas.Would you like me to help you make this more personalized in a specific project you can approch me !!<br>
 <h3 align="center">💻 Technical Stack :</h3>
 
@@ -92,6 +81,8 @@ Machine Learning & AI<br>- System automation for smart devices
 <div align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=shivacharandhoni&limit=5&theme=date_night&combine_all_yearly_contributions=true" width="700" alt="GitHub Contributor Stats"/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivacharandhoni&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
 </div>
 <p align="center">
