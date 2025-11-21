@@ -9,8 +9,8 @@
     <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Mail" style="color:#D44638;">
   </a>
   
-  <a href="https://www.linkedin.com/in/shivacharan07" target="blank">
-    <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" style="color:#0077B5;">
+  <a href="https://www.linkedin.com/in/shivacharandhoni" target="blank">
+    <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" style="color:#D44638;">
   </a>
 </p>
 <h4 align="center">Pronouns: He/Him</h4>
