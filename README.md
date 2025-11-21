@@ -18,9 +18,12 @@
   <img src="https://komarev.com/ghpvc/?username=shivacharandhoni&label=Profile%20views&color=0e75b6&style=flat" alt="shivacharandhoni" /> 
 </p>
  -->
-<div>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shivacharandhoni&theme=monokai&no-frame=true&margin-w=10" />
+<!-- <div>
+  <img width="100%" src="/mnt/data/ee0b756a-a58a-41bd-a6a7-facded92ccc6.png" alt="GitHub Trophy - shivacharandhoni" />
 </div>
+![GitHub Trophy - shivacharandhoni](/mnt/data/ee0b756a-a58a-41bd-a6a7-facded92ccc6.png) -->
+
+
 <p> Full Stack Developer and focus on innovation-driven projects.
 I specialize in transforming creative ideas into practical and efficient technological solutions.</p>
 • 🚀 Build scalable full-stack apps using the MERN stack. <br>
