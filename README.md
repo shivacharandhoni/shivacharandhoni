@@ -72,22 +72,23 @@ I specialize in transforming creative ideas into practical and efficient technol
   <img alt="github-snake" src="https://github.com/shivacharandhoni/shivacharandhoni/blob/output/github-snake.svg" />
 </picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivacharandhoni&show_icons=true&theme=radical&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivacharandhoni&layout=compact&theme=radical&hide_border=true" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivacharandhoni&show_icons=true&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivacharandhoni&layout=compact&theme=radical&hide_border=true" />  -->
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=shivacharandhoni&theme=radical&hide_border=true" />
-</div>
+<!-- <img height="180em" src="https://streak-stats.demolab.com/?user=shivacharandhoni&theme=radical&hide_border=true" />
+</div> -->
 
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<!-- <h3 align="center">🔝 Top Contributed Repo</h3>
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=shivacharandhoni&limit=5&theme=date_night&combine_all_yearly_contributions=true" width="700" alt="GitHub Contributor Stats"/>
+ <img src="https://github-contributor-stats.vercel.app/api?username=shivacharandhoni&limit=5&theme=date_night&combine_all_yearly_contributions=true" width="700" alt="GitHub Contributor Stats"/>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivacharandhoni&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
-</div>
+
+</div> -->
 <p align="center">
     <img src=".github/git.svg">
 </p>
