@@ -32,8 +32,10 @@ I specialize in transforming creative ideas into practical and efficient technol
 • 🌱 Currently learning machine learning, smart device automation, and cloud DevOps.<br>
 • 🤝 Open to open-source contributions and exciting collaborations
 
-<h4>📫 Let's Connect!</h4>Feel free to check out my repositories, contribute, or reach out for collaborations and innovative ideas.Would you like me to help you make this more personalized in a specific project you can approch me !!<br>
-<h3 align="center">💻 Technical Stack :</h3>
+<h4> <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/mail-box.gif?raw=true" alt="eye roll" width="50" /> Get in Touch
+ Let's Connect!</h4>Feel free to check out my repositories, contribute, or reach out for collaborations and innovative ideas.Would you like me to help you make this more personalized in a specific project you can approch me !!<br>
+<h3 align="center"><img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" alt="eye roll" width="50" /> 
+Technical Stack :</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&cachebust=4" alt="C" style="margin: 0 10px;">
@@ -62,7 +64,8 @@ I specialize in transforming creative ideas into practical and efficient technol
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&cachebust=4" alt="Git" style="margin: 0 10px;">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=internet&cachebust=4" alt="Portfolio" style="margin: 0 10px;">
 </p>
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center"><img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/star.gif?raw=true" alt="eye roll" width="50" /> GitHub Stats
+ GitHub Stats:</h3>
 
 <div align="center">
 
