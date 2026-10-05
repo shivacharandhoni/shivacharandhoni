@@ -25,7 +25,7 @@
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/awkward-smile.gif?raw=true" alt="eye roll" width="50" /> About Me
 
 <p>
-I'm a Full Stack Developer and enjoy building products that solve real-world problems.
+I am a Full Stack Developer and enjoy building products that solve real-world problems.
 I mainly work with the MERN stack and like turning ideas into scalable, user-friendly applications.
 </p>
 
